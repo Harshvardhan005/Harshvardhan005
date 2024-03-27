@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Harshvardhan005
-- 👀 I’m interested in IT
+- 👀 I’m interested in Web dev
 - 🌱 I’m currently learning c++
 - 📫 How to reach me harshvardhan20050@gmail.com
-- 😄 Pronouns: Harshavardhan
+- 😄 Pronouns: HV
 - ⚡ Fun fact: i love football
 
 <!---
