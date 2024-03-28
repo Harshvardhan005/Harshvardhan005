@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web dev
 - 🌱 I’m currently learning c++
 - 📫 How to reach me harshvardhan20050@gmail.com
-- 😄 Pronouns: HV
+- 😄 Pronouns:He/him
 - ⚡ Fun fact: i love football
 
 <!---
