@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Harshvardhan005
-- 👀 I’m interested in Web dev
-- 🌱 I’m currently learning c++
+- 👀 I’m interested in debugging codes
+- 🌱 I’m currently learning Data science
+- ✨skills - Python, C++, C, HTML, CSS, DBMS
 - 📫 How to reach me harshvardhan20050@gmail.com
 - 😄 Pronouns:He/him
 - ⚡ Fun fact: i love football
